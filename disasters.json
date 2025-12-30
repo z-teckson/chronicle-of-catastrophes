@@ -10,5 +10,17 @@
       "causes": "Locked exit doors, inadequate fire escapes, and poor safety regulations. Factory owners prioritized profit over worker safety.",
       "consequences": "Led to widespread labor reforms, new fire safety laws, and the growth of the International Ladies' Garment Workers' Union. It became a pivotal moment in the American labor movement."
     }
+  },
+  {
+    "id": "hillsborough_1989",
+    "name": "Hillsborough Disaster",
+    "date": "1989-04-15",
+    "location": "Sheffield, England",
+    "type": "Crowd Crush",
+    "summary": "A fatal human crush during a football match, resulting in the loss of 97 lives.",
+    "human_factors": {
+      "causes": "Primarily caused by police mismanagement of the crowd, with a decision to open an exit gate leading to an influx of fans into already packed central pens. Failures in stadium design and emergency response protocols were contributing factors.",
+      "consequences": "A protracted 27-year campaign by the victims' families to uncover the truth, fighting against an initial police-led narrative that blamed the fans. The subsequent inquiries led to the overturning of the original inquest verdicts, a new coroner's ruling of unlawful killing, and ongoing criminal proceedings. The event had a profound and lasting psychological impact on the community of Liverpool and led to major changes in stadium safety regulations across English football."
+    }
   }
 ]
