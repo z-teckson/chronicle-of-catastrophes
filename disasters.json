@@ -1,0 +1,14 @@
+[
+  {
+    "id": "triangle_shirtwaist_1911",
+    "name": "Triangle Shirtwaist Factory Fire",
+    "date": "1911-03-25",
+    "location": "New York City, USA",
+    "type": "Factory Fire",
+    "summary": "A catastrophic fire in a garment factory that killed 146 workers, mostly young immigrant women.",
+    "human_factors": {
+      "causes": "Locked exit doors, inadequate fire escapes, and poor safety regulations. Factory owners prioritized profit over worker safety.",
+      "consequences": "Led to widespread labor reforms, new fire safety laws, and the growth of the International Ladies' Garment Workers' Union. It became a pivotal moment in the American labor movement."
+    }
+  }
+]
